@@ -5,13 +5,8 @@
     "wait_time_max": 20,
     "score": 3,
     "full_extra_tasks": false,
-    "notify_email": "您的邮箱地址",
-    "email_password": "您的邮箱密码或应用专用密码",
-    "smtp_server": "smtp.gmail.com",
-    "smtp_port": 465,
     "netease_phone": "19260463771",
     "netease_password": "MY20030625@",
- //   "netease_md5_password": "MD5加密后的密码，强烈建议使用该密码(2选1)",
     "gh_token": "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",
-    "gh_repo": ""
+    "gh_repo": "https://github.com/jack-pq/ncmp"
 }
